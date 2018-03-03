@@ -1,0 +1,3 @@
+#!/bin/sh
+#./cgminer -o stratum+tcp://eu3.blakecoin.com:3334 -u nckma.worker1 -p worker-pwd --debug --hotplug 0
+./cgminer -o stratum+tcp://pool.vchain.info:3032 -u VwM1AMGtGN4rTPGDBxTHpk8gQzFMuryAWp -p pwd --debug --hotplug 0
